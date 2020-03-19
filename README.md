@@ -1,6 +1,6 @@
 # Wikipedia
 
-**Что исполььзовалось?**
+**Что использовалось?**/n
 Ипользовался API Wikipedia, который оформлев в виде библиотеки на python
 Основные методы:
 1. wikipedia.page(title=None, pageid=None, auto_suggest=True, redirect=True, preload=False)
