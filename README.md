@@ -3,6 +3,7 @@
 **Что использовалось?**
 
 Ипользовался API Wikipedia, который оформлев в виде библиотеки на python
+
 Основные методы:
 1. wikipedia.page(title=None, pageid=None, auto_suggest=True, redirect=True, preload=False)
 2. wikipedia.search(query, results=10, suggestion=False)
